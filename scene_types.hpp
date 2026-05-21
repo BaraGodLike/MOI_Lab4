@@ -134,8 +134,6 @@ struct RenderSettings
   int width;
   int height;
   const char *ppm_file;
-  const char *nit_file;
-  bool save_nit;
   float fov_y_deg;
   };
 
